@@ -18,10 +18,6 @@ Step 5: Use the following command to run the Gesture Controller
 Step 6: Use the following command to run the Voice based control
 	>>python Jerry.py
 	
-Follow the video for Gesture and Voice-Control Based Virtual Mouse Project demonstration
-	>> 
-	
-	
   
 ## Team
 Website: VTUPulse.com
