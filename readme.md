@@ -109,10 +109,6 @@ See `requirements.txt` for a complete list of dependencies. Key requirements inc
 
 Contributions to improve the system are welcome. Please feel free to submit a pull request or open an issue for discussion.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
+## 📞Contact
 
 For questions or support, please reach out to the project maintainers or open an issue on GitHub.
