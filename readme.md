@@ -83,14 +83,5 @@ The system captures video input from your webcam and processes it through a comp
 - **Cursor jitter**: Increase smoothing factor in configuration
 - **Performance lag**: Close resource-intensive applications or reduce frame rate
 
-## 🤝 Contributing
-
-Contributions are welcome! Please submit pull requests or open issues for discussion.
-
-## 📞 Contact
-
-For questions or support, please open an issue on GitHub.
-
----
-
 **Built for accessible, intuitive human-computer interaction** ❤️
+
